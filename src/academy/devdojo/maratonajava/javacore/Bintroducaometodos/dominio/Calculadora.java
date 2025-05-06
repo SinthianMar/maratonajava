@@ -30,8 +30,6 @@ public class Calculadora {
             soma += num;
         }
             System.out.println(soma);
-
-
         }
 
         public void somaVarArfs(int... numeros){
