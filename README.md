@@ -2,14 +2,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmarques)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![DevDojo](https://img.shields.io/badge/DevDojo-Project-blueviolet?style=for-the-badge)](https://www.youtube.com/@devdojo)
+[![DevDojo](https://img.shields.io/badge/DevDojo-Project-blueviolet?style=for-the-badge)](https://www.youtube.com/@DevDojoBrasil)
 
-> 🎓 Projeto de estudos com base na Maratona Java do canal [DevDojo](https://www.youtube.com/@devdojo), com 282 aulas no total.  
+> ◦ Projeto de estudos com base na Maratona Java do canal [DevDojo](https://www.youtube.com/@DevDojoBrasil), com 286 aulas no total.  
 > Este repositório acompanha minha evolução como desenvolvedora back-end Java, com foco em lógica, boas práticas e orientação a objetos.
 
 ---
 
-## 🧭 Índice
+## 📑  Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Conhecimentos Adquiridos até o Momento](#-conhecimentos-adquiridos-até-o-momento)
@@ -20,13 +20,13 @@
 
 ---
 
-## 📚 Sobre o Projeto
+## 📦 Sobre o Projeto
 
 Este repositório contém os códigos, anotações e mini-projetos desenvolvidos durante a Maratona Java do canal DevDojo. A proposta é aprender Java do absoluto zero até temas mais avançados, reforçando lógica de programação, orientação a objetos, estrutura de dados e muito mais.
 
 ---
 
-## 💡 Conhecimentos Adquiridos até o Momento
+## 📝 Conhecimentos Adquiridos até o Momento
 
 Já absorvi conceitos fundamentais e intermediários de Java, como:
 
@@ -51,7 +51,7 @@ Já absorvi conceitos fundamentais e intermediários de Java, como:
 
 ---
 
-## 🚀 Como Executar
+## 🔹 Como Executar
 
 1. Clone o repositório:
    ```bash
@@ -83,20 +83,20 @@ Cada pasta segue o tema da aula correspondente, com exemplos práticos e coment�
 
 ## 🔗 Links Úteis
 
-- [Maratona Java no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+- [Maratona Java no YouTube](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=ZetBRaAdjjbw7bOL)
 - [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
 - [Java API Search](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 
 ---
 
-## 👩‍💻 Sobre Mim
+## ⇨  Sobre Mim
 
 Olá! Me chamo **Sinthian Marques**, sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por resolver problemas com código e movida por desafios técnicos e criativos.  
 Atualmente, estou focada em **desenvolvimento back-end Java** e construindo meu caminho com base sólida em lógica e boas práticas.
 
-📫 Vamos nos conectar!  
+📧 Vamos nos conectar!  
 [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
 
 ---
 
-> 🗝️ “O aprendizado é uma maratona, não uma corrida de 100 metros. Um commit por vez, um método por dia. E no final, tudo se conecta.”
+> “O aprendizado é uma maratona, não uma corrida de 100 metros. Um commit por vez, um método por dia. E no final, tudo se conecta.”
