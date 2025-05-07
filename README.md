@@ -47,7 +47,7 @@ Já absorvi conceitos fundamentais e intermediários de Java, como:
 - Boas práticas de organização de código
 - Convenções do Java e comentários
 
-> Cada conceito foi praticado com exemplos reais e exercícios resolvidos, reforçando o aprendizado com código limpo e comentado.
+> Cada conceito foi praticado com exemplos reais e exercícios resolvidos, reforçando o aprendizado com código limpo.
 
 ---
 
@@ -77,11 +77,11 @@ Já absorvi conceitos fundamentais e intermediários de Java, como:
 └── ...
 ```
 
-Cada pasta segue o tema da aula correspondente, com exemplos práticos e comentários explicativos.
+> Cada pasta segue o tema da aula correspondente, com exemplos práticos.
 
 ---
 
-## 🔗 Links Úteis
+ ### 🔗 Links Úteis
 
 - [Maratona Java no YouTube](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=ZetBRaAdjjbw7bOL)
 - [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
@@ -89,14 +89,11 @@ Cada pasta segue o tema da aula correspondente, com exemplos práticos e coment�
 
 ---
 
-## ⇨  Sobre Mim
+### 🌐  Sobre Mim
 
 Olá! Me chamo **Sinthian Marques**, sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por resolver problemas com código e movida por desafios técnicos e criativos.  
 Atualmente, estou focada em **desenvolvimento back-end Java** e construindo meu caminho com base sólida em lógica e boas práticas.
 
-📧 Vamos nos conectar!  
-[LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
-
 ---
-
-> “O aprendizado é uma maratona, não uma corrida de 100 metros. Um commit por vez, um método por dia. E no final, tudo se conecta.”
+> _"O aprendizado é uma maratona, não uma corrida de 100 metros. Um commit por vez, um método por dia. E no final, tudo se conecta."_  
+Por [Sinthian Marques ](https://github.com/SinthianMar) | [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
