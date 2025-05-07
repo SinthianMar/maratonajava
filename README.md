@@ -11,12 +11,12 @@
 
 ## 🧭 Índice
 
-- [📚 Sobre o Projeto](#-sobre-o-projeto)
-- [💡 Conhecimentos Adquiridos até o Momento](#-conhecimentos-adquiridos-até-o-momento)
-- [🚀 Como Executar](#-como-executar)
-- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
-- [🔗 Links Úteis](#-links-úteis)
-- [👩‍💻 Sobre Mim](#-sobre-mim)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Conhecimentos Adquiridos até o Momento](#-conhecimentos-adquiridos-até-o-momento)
+- [Como Executar](#-como-executar)
+- [Estrutura de Pastas](#-estrutura-de-pastas)
+- [Links Úteis](#-links-úteis)
+- [Sobre Mim](#-sobre-mim)
 
 ---
 
@@ -28,7 +28,7 @@ Este repositório contém os códigos, anotações e mini-projetos desenvolvidos
 
 ## 💡 Conhecimentos Adquiridos até o Momento
 
-🧠 Já absorvi conceitos fundamentais e intermediários de Java, como:
+Já absorvi conceitos fundamentais e intermediários de Java, como:
 
 - Sintaxe básica e estrutura de um programa Java
 - Tipos primitivos, variáveis e operadores
@@ -47,7 +47,7 @@ Este repositório contém os códigos, anotações e mini-projetos desenvolvidos
 - Boas práticas de organização de código
 - Convenções do Java e comentários
 
-> Cada conceito foi praticado com exemplos reais e exercícios resolvidos, reforçando o aprendizado com código limpo e comentado. 🧪
+> Cada conceito foi praticado com exemplos reais e exercícios resolvidos, reforçando o aprendizado com código limpo e comentado.
 
 ---
 
@@ -55,11 +55,11 @@ Este repositório contém os códigos, anotações e mini-projetos desenvolvidos
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/sinthianmarques/maratona-java-devdojo.git
+   git clone ttps://github.com/SinthianMar/maratonajava.git
    ```
 2. Importe o projeto na sua IDE Java favorita (IntelliJ, Eclipse, VS Code).
 3. Compile e execute os arquivos `.java` de acordo com o tema desejado.
-4. Divirta-se aprendendo! 🎉
+4. Divirta-se aprendendo! 
 
 ---
 
@@ -83,9 +83,9 @@ Cada pasta segue o tema da aula correspondente, com exemplos práticos e coment�
 
 ## 🔗 Links Úteis
 
-- 🔗 [Maratona Java no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
-- 📘 [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
-- 🔍 [Java API Search](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
+- [Maratona Java no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+- [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+- [Java API Search](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 
 ---
 
