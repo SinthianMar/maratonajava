@@ -1,100 +1,102 @@
-﻿# maratona-java
-Trata-se de um projeto de aprendizagem para aprender a linguagem Java. 
-Estou compartilhando desde o inicio, para que fique em um ambiente as falhas e acertos durante o processo de aprendizagem. 
-Existe uma premissa que java é uma linguágem complexa e estou tentando quebrar com esse pré-conceito, que acabou sendo internalizado através de uma experiência ruim. 
-Estou iniciando meus conceitos também no GitHub, portanto estou aprendendo com os meus erros. Aceito retornos construtivos. 
-=======
-# 📚 Cadastro de Livros
+# ☕ Maratona Java DevDojo - Sinthian Marques
 
-Este projeto é uma aplicação simples em Java para cadastrar e exibir informações sobre livros. O objetivo é permitir que o usuário cadastre livros, armazenando seus dados (título, autor e ano de publicação), e visualize os livros cadastrados.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmarques)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![DevDojo](https://img.shields.io/badge/DevDojo-Project-blueviolet?style=for-the-badge)](https://www.youtube.com/@devdojo)
 
-## 📂 Estrutura do Projeto
+> 🎓 Projeto de estudos com base na Maratona Java do canal [DevDojo](https://www.youtube.com/@devdojo), com 282 aulas no total.  
+> Este repositório acompanha minha evolução como desenvolvedora back-end Java, com foco em lógica, boas práticas e orientação a objetos.
 
-O projeto é composto por duas classes principais:
+---
 
-### 1. **Classe `Livro`**
-Representa um livro e contém as seguintes propriedades e métodos:
+## 🧭 Índice
 
-- **Propriedades**:
-  - `titulo` (String): O título do livro.
-  - `autor` (String): O autor do livro.
-  - `ano` (int): O ano de publicação do livro.
+- [📚 Sobre o Projeto](#-sobre-o-projeto)
+- [💡 Conhecimentos Adquiridos até o Momento](#-conhecimentos-adquiridos-até-o-momento)
+- [🚀 Como Executar](#-como-executar)
+- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [🔗 Links Úteis](#-links-úteis)
+- [👩‍💻 Sobre Mim](#-sobre-mim)
 
-- **Métodos**:
-  - `Livro(String titulo, String autor, int ano)`: Construtor para inicializar o livro com título, autor e ano.
-  - `getTitulo()`: Retorna o título do livro.
-  - `getAutor()`: Retorna o autor do livro.
-  - `setAno(int ano)`: Modifica o ano de publicação do livro.
-  - `exibirInfo()`: Exibe as informações do livro no console.
+---
 
-### 2. **Classe `Cadastro`**
-Responsável pela interação com o usuário e o gerenciamento dos livros cadastrados. O fluxo de execução é controlado por um menu de opções, onde o usuário pode escolher entre cadastrar livros ou exibir os livros cadastrados.
+## 📚 Sobre o Projeto
 
-- **Funções**:
-  - Cadastrar livros com título, autor e ano.
-  - Exibir os livros já cadastrados.
-  - Sair do programa.
+Este repositório contém os códigos, anotações e mini-projetos desenvolvidos durante a Maratona Java do canal DevDojo. A proposta é aprender Java do absoluto zero até temas mais avançados, reforçando lógica de programação, orientação a objetos, estrutura de dados e muito mais.
 
-## ⚙️ Como Executar
+---
 
-1. **Clonando o repositório:**
+## 💡 Conhecimentos Adquiridos até o Momento
 
-   Clone este repositório ou baixe os arquivos do projeto para sua máquina local.
+🧠 Já absorvi conceitos fundamentais e intermediários de Java, como:
 
-2. **Compilando e executando:**
-   
-   Para compilar e executar o programa, use um ambiente de desenvolvimento Java, como o Eclipse ou IntelliJ, ou compile via terminal usando o comando `javac`:
+- Sintaxe básica e estrutura de um programa Java
+- Tipos primitivos, variáveis e operadores
+- Controle de fluxo (if/else, switch, loops)
+- Arrays unidimensionais e multidimensionais
+- Métodos com e sem retorno, parâmetros e sobrecarga
+- Escopo de variáveis
+- Programação Orientada a Objetos (POO):
+  - Classes e objetos
+  - Construtores
+  - Encapsulamento (`private`, `public`, `getters/setters`)
+  - Herança e `super`
+  - Polimorfismo e sobrescrita de métodos
+  - Modificadores (`final`, `static`)
+  - Composição e associação de objetos
+- Boas práticas de organização de código
+- Convenções do Java e comentários
 
+> Cada conceito foi praticado com exemplos reais e exercícios resolvidos, reforçando o aprendizado com código limpo e comentado. 🧪
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
    ```bash
-   javac Cadastro.java Livro.java
-   java Cadastro
+   git clone https://github.com/sinthianmarques/maratona-java-devdojo.git
    ```
+2. Importe o projeto na sua IDE Java favorita (IntelliJ, Eclipse, VS Code).
+3. Compile e execute os arquivos `.java` de acordo com o tema desejado.
+4. Divirta-se aprendendo! 🎉
 
-3. **Interação com o programa:**
+---
 
-   O programa exibirá um menu com opções para o usuário. Para interagir, basta seguir as instruções no console.
-
-## 🖥️ Exemplo de Execução
+## 📂 Estrutura de Pastas
 
 ```bash
-Cadastro de Livros
-1. Cadastrar livros
-2. Exibir livros cadastrados
-3. Sair
-Escolha uma Opção: 1
-Digite o título do livro: O Senhor dos Anéis
-Digite o autor do livro: J.R.R. Tolkien
-Digite o ano de publicação: 1954
-Livro cadastrado com sucesso.
-
-Cadastro de Livros
-1. Cadastrar livros
-2. Exibir livros cadastrados
-3. Sair
-Escolha uma Opção: 2
-
-Livros cadastrados:
-Título: O Senhor dos Anéis
-Autor: J.R.R. Tolkien
-Ano: 1954
+📁 src/
+├── aula01_Introducao
+├── aula02_TiposPrimitivos
+├── aula10_Condicionais
+├── aula20_Loops
+├── aula30_Arrays
+├── aula40_Metodos
+├── aula50_OrientacaoObjetos
+└── ...
 ```
 
-## 🔧 Tecnologias Utilizadas
+Cada pasta segue o tema da aula correspondente, com exemplos práticos e comentários explicativos.
 
-- **Java 8+**
-- **Estruturas de Dados**: `ArrayList`, `Scanner`
+---
 
-## 🎯 Funcionalidades
+## 🔗 Links Úteis
 
-- **Cadastrar livros**: Permite inserir livros com título, autor e ano.
-- **Exibir livros cadastrados**: Exibe todos os livros cadastrados até o momento.
-- **Interface simples e funcional**: Interface de texto simples, mas eficiente.
+- 🔗 [Maratona Java no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+- 📘 [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+- 🔍 [Java API Search](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 
-## 🚀 Como Contribuir
+---
 
-Se você tem sugestões de melhorias ou encontrou algum erro, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Fico feliz em revisar contribuições!
+## 👩‍💻 Sobre Mim
 
-## 📝 Licença
+Olá! Me chamo **Sinthian Marques**, sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por resolver problemas com código e movida por desafios técnicos e criativos.  
+Atualmente, estou focada em **desenvolvimento back-end Java** e construindo meu caminho com base sólida em lógica e boas práticas.
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
->>>>>>> 60ee3d99084ff9efc3d8a5953a837dab6c71149a
+📫 Vamos nos conectar!  
+[LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
+
+---
+
+> 🗝️ “O aprendizado é uma maratona, não uma corrida de 100 metros. Um commit por vez, um método por dia. E no final, tudo se conecta.”
